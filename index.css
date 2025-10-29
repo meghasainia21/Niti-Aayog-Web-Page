@@ -1,0 +1,19 @@
+.image{
+    background-color:rgb(18, 149, 230);
+}
+h1{
+    color: white;
+    background-color: darkblue;
+    align-items: center;
+}
+h2{
+    color: rgb(14, 14, 235);
+    background-color: rgb(209, 200, 200);
+}
+p{
+    color: blue;
+}
+h3{
+    color: white;
+    background-color: rgb(18,149,230);
+}
