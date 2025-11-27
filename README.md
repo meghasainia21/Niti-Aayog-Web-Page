@@ -4,15 +4,24 @@ This project focuses on form structure, layout, and user-friendly input flow —
 
 
 🌟 Features
+<br>
 -Fully responsive HTML form
+<br>
 -Clean and structured layout
+<br>
 -Sections include:
+<br>
    -Personal Details
+   <br>
    -Educational Background
+   <br>
    -Internship Preferences
+   <br>
    -Document Upload Fields
-
-   
+   <br>
+<br>
 🛠️ Tech Stack
+<br>
 -HTML5
+<br>
 -CSS for styling
