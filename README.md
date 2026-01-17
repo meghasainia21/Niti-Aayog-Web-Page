@@ -10,7 +10,7 @@ This project focuses on form structure, layout, and user-friendly input flow —
 -Clean and structured layout
 <br>
 <br>
-<h2><b>Sections include:</b></h2>
+<h2><b>🌟 Sections include:</b></h2>
 
    -Personal Details
    <br>
