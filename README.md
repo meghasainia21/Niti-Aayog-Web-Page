@@ -3,15 +3,15 @@ A simple and clean HTML-based Internship Application Form designed for the NITI 
 This project focuses on form structure, layout, and user-friendly input flow — ideal for learning basic web development and form handling.
 
 
-🌟 <b>Features</b>
-<br>
+<h2> <b>🌟 Features</b></h2>
+
 -Fully responsive HTML form
 <br>
 -Clean and structured layout
 <br>
 <br>
-<b>Sections include:</b>
-<br>
+<h2><b>Sections include:</b></h2>
+
    -Personal Details
    <br>
    -Educational Background
@@ -21,8 +21,8 @@ This project focuses on form structure, layout, and user-friendly input flow —
    -Document Upload Fields
    <br>
 <br>
-<b>🛠️ Tech Stack</b>
-<br>
+<h2><b>🛠️ Tech Stack</b></h2>
+
 -HTML5
 <br>
 -CSS for styling
